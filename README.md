@@ -9,7 +9,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanmay-pathak)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanmay-pathak-7785b4378/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanmay02.work@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FlamesNUB)
 
@@ -23,9 +23,8 @@
 name        : "Tanmay Pathak"
 role        : "AI/ML Engineer & Data Scientist"
 location    : "India 🇮🇳"
-focus       : "Deep Learning · Computer Vision · Data Engineering"
+focus       : "Deep Learning · Computer Vision · Data Engineering . Data Structures"
 experience  : "Production-grade ML systems & automated data pipelines"
-currently   : "MBA in GenAI & Finance @ IIT Patna 🎓"
 interests   : ["Computer Vision", "LLMs", "Data Science", "Open Source 🔓"]
 ```
 
@@ -45,10 +44,10 @@ interests   : ["Computer Vision", "LLMs", "Data Science", "Open Source 🔓"]
 
 | 🔥 Project | 📝 Description | 🛠️ Stack |
 |---|---|---|
-| [**MoodMate**](https://github.com/FlamesNUB/MoodMate) | Real-time emotion detection + Spotify music recommendations | Python, OpenCV, FER, Spotify API |
-| [**Face Recognition Attendance**](https://github.com/FlamesNUB/Face-Recognition-Attendance) | Automated attendance via live webcam & LBPH face recognition | Python, OpenCV, LBPH, NumPy |
-| [**Plastic Waste Detection**](https://github.com/FlamesNUB/Plastic-Waste-Detection) | YOLOv8 drone imagery detection with GPS geotagging | Python, YOLOv8, PyTorch, Roboflow |
-| [**Hand Sign Recognition**](https://github.com/FlamesNUB/Hand-Sign-Recognition) | Real-time 26-alphabet ASL gesture-to-text CNN classifier | Python, TensorFlow, MediaPipe, CNN |
+| [**MoodMate**](https://github.com/FlamesNUB/Mood-Based-Music-recommendation-System-MOODMATE-) | Real-time emotion detection + Spotify music recommendations | Python, OpenCV, FER, Spotify API |
+| [**Face Recognition Attendance**](https://github.com/FlamesNUB/Facial-recognition-attendance-system) | Automated attendance via live webcam & LBPH face recognition | Python, OpenCV, LBPH, NumPy |
+| [**Plastic Waste Detection**](https://github.com/FlamesNUB/Plastic_Detection_Geotagging) | YOLOv8 drone imagery detection with GPS geotagging | Python, YOLOv8, PyTorch, Roboflow |
+| [**Hand Sign Recognition**](https://github.com/FlamesNUB/Sign-Language-Recognition) | Real-time 26-alphabet ASL gesture-to-text CNN classifier | Python, TensorFlow, MediaPipe, CNN |
 
 > 🔗 See all repositories → **[github.com/FlamesNUB](https://github.com/FlamesNUB?tab=repositories)**
 
@@ -150,7 +149,7 @@ interests   : ["Computer Vision", "LLMs", "Data Science", "Open Source 🔓"]
 
 ### 💬 Let's build something intelligent together!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanmay-pathak)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanmay-pathak-7785b4378/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanmay02.work@gmail.com)
 
 <br/>
